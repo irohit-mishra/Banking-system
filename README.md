@@ -8,6 +8,7 @@ this system includes:
 
    
 While developing this system I learned about kotlin programm like:
+
 a. print statement
 b. loop and when expression
 c. creating and using variables
